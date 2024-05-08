@@ -10,20 +10,7 @@
 
 ***
 ***
-# 42 Cursus SCHOOL STATS
-## :notebook_with_decorative_cover: 42 cursus (2022/11)
 
-| Circle | Project                                                                              |            Language            |                                      Score                                       |  Level   |
-| :----: | :----------------------------------------------------------------------------------- | :----------------------------: | :------------------------------------------------------------------------------: | :------: |
-|   01   | [**Libft**](https://github.com/andrepinto77/42Cursus---Libft) | C | ![abaltaza's 42 Libft Score](https://projects.intra.42.fr/42cursus-libft/abaltaza) | 1                 
-
----
-
-## :camera: Intra Profile
-
-<p align="center">
-  <img src="https://badge42.vercel.app/api/v2/clai1kz3g00300fmq6tx713ow/stats?cursusId=21&coalitionId=237" />
-</p>
 
 
 ***
