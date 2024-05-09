@@ -6,7 +6,6 @@
 
 ⚡I am an engineer with a particular interest in making things and automating daily tasks. I tried to keep up with new technologies, and am always looking for new things to learn. <br>
 🔭 I’m currently working on MI GSO as Web Developer<br>
-🌱 I’m currently learning C at school 42 - PORTO
 
 ***
 ***
@@ -57,12 +56,12 @@
 
 ### 😂 Dev Meme
 <p align="center">
-  <img src="https://random-memer.herokuapp.com/" alt="animated" />
+  <img src="https://programmerhumor.io/memes/git/" alt="animated" />
 </p>
 
 
 ---
-[![hi](https://visitcount.itsvg.in/api?id=andrepinto77&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=andrepinto77&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
