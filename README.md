@@ -45,7 +45,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abaltazarpinto&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="animated" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abaltazapinto&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="animated" />
 </p>
 
 ### ✍️ Dev Quote
