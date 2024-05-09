@@ -55,9 +55,6 @@
 
 
 ### 😂 Dev Meme
-<p align="center">
-  <img src="https://programmerhumor.io/memes/git/" alt="animated" />
-</p>
 
 
 ---
