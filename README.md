@@ -40,7 +40,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abaltazapinto&theme=dark&hide_border=false" alt="animated" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaltazapinto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="animated" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaltazapinto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="animated"/>
 </p>
 
 ## 🏆 GitHub Trophies
