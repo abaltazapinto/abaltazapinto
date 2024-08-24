@@ -47,15 +47,16 @@ Last Github lost https://github.com/abaltazarpinto
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="animated" />
 </p>
 
-
-[![image](https://github.com/user-attachments/assets/9c5c2eb7-baf8-47a9-a802-7d8737f048a1)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9c5c2eb7-baf8-47a9-a802-7d8737f048a1" alt="quote" />
+</p>
 
 
 ### 😂 Dev Meme
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=andrepinto77&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=andrepinto77&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=vamos+aprender)](https://git.io/typing-svg)
