@@ -1,6 +1,4 @@
 # 💫 About Me:
-![image](https://github.com/user-attachments/assets/9c5c2eb7-baf8-47a9-a802-7d8737f048a1)
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=30&duration=3000&pause=1000&color=1C85F7&center=true&multiline=true&width=600&height=140&lines=I+am+Andre+Baltazar%7C;Working+at+MI-GSO+as+a+Web+Developer%7C;Learning+C+at+42+school%7C)](https://git.io/typing-svg)<img style="float: right; width:200px; height: auto" src="https://botimage1.blob.core.windows.net/images/computer gif.gif">
 
@@ -49,7 +47,7 @@ Last Github lost https://github.com/abaltazarpinto
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="animated" />
 </p>
 
-
+![image](https://github.com/user-attachments/assets/9c5c2eb7-baf8-47a9-a802-7d8737f048a1)
 ### 😂 Dev Meme
 
 
@@ -58,6 +56,8 @@ Last Github lost https://github.com/abaltazarpinto
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=vamos+aprender)](https://git.io/typing-svg)
+
+
 <!--
 **andrepinto77/andrepinto77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
