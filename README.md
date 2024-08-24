@@ -48,7 +48,7 @@ Last Github lost https://github.com/abaltazarpinto
 </p>
 
 <p align="center">
-![image](https://github.com/user-attachments/assets/9c5c2eb7-baf8-47a9-a802-7d8737f048a1)
+[![image](https://github.com/user-attachments/assets/9c5c2eb7-baf8-47a9-a802-7d8737f048a1)
 </p>
 
 ### 😂 Dev Meme
