@@ -47,7 +47,7 @@ Last Github lost https://github.com/abaltazarpinto
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="animated" />
 </p>
 
-<p align="center"
+<p align="center">
 ![image](https://github.com/user-attachments/assets/9c5c2eb7-baf8-47a9-a802-7d8737f048a1)
 </p>
 
