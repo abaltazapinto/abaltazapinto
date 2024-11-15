@@ -2,7 +2,7 @@
 
 ## About Me: 🌟
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=30&duration=3000&pause=1000&color=1C85F7&center=true&multiline=true&width=600&height=140&lines=I+am+Andre+Baltazar%7C;Always+Learn+a+new+skill+everyday%7C;Learning+C+at+42+school%7C)](https://git.io/typing-svg)<img align="right" width="200px" height="auto" src="https://botimage1.blob.core.windows.net/images/computer%20gif.gif" alt="Computer GIF">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=30&duration=3000&pause=1000&color=1C85F7&center=true&multiline=true&width=600&height=140&lines=I+am+Andre+Baltazar%7C;Always+Learning+a+new+skill+everyday%7C;Learning+C+at+42+school%7C)](https://git.io/typing-svg)<img align="right" width="200px" height="auto" src="https://botimage1.blob.core.windows.net/images/computer%20gif.gif" alt="Computer GIF">
 
 ***
 ⚡I am an engineer with a particular interest in making things and automating daily tasks. I tried to keep up with new technologies, and am always looking for new things to learn. <br>
