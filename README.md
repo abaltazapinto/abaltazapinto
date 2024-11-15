@@ -7,7 +7,7 @@
 ***
 ⚡I am an engineer with a particular interest in making things and automating daily tasks. I tried to keep up with new technologies, and am always looking for new things to learn. <br>
 🔭 I’m currently working on my skills<br>
-Let's grow together 👊🧠
+Let's grow together 👊🧠 <br>
 Last Github lost https://github.com/abaltazarpinto
 ***
 
