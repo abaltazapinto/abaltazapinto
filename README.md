@@ -64,7 +64,7 @@ Last Github lost https://github.com/abaltazarpinto
 ![](https://visitcount.itsvg.in/api?id=andrepinto77&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=vamos+aprender)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=vamos+aprender)]
 
 
 <!--
