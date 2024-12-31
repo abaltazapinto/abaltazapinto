@@ -28,7 +28,7 @@ Last Github lost https://github.com/abaltazarpinto
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white" alt="JIRA" />
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Shell" />
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" alt="Markdown" />
-      <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="EXPO APP" />
+      <img src="https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=for-the-badge" alt="EXPO APP" />
 
 </p>
 I also work with Expo apps!  
