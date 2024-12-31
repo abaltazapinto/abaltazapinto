@@ -31,8 +31,7 @@ Last Github lost https://github.com/abaltazarpinto
       <img src="https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=for-the-badge" alt="EXPO APP" />
 
 </p>
-I also work with Expo apps!  
-![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=for-the-badge)
+
 
 # 📊 GitHub Stats:
 
