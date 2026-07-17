@@ -13,6 +13,8 @@ Let's grow together 👊🧠 <br>
 
 – Benjamin Franklin<br/>
 
+You don’t understand anything until you learn it more than one way.<br/>
+
 Last Github lost https://github.com/abaltazarpinto
 ***
 
