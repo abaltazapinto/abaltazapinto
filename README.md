@@ -16,6 +16,9 @@ Let's grow together 👊🧠 <br>
 You don’t understand anything until you learn it more than one way.<br/>
 
 Last Github lost https://github.com/abaltazarpinto
+
+The greatest glory in living, lies not in never falling, but in rising every time we fall.
+
 ***
 
 ## 🌐 Socials:
