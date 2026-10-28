@@ -26,6 +26,7 @@ The greatest glory in living, lies not in never falling, but in rising every tim
 
 # 💻 Tech Stack:
 <p align="center">
+    **KVM/QEMU**
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
